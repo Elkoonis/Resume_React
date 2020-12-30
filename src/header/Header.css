@@ -1,0 +1,30 @@
+.App-header .sidenav a {
+    padding-left: 3%;
+    font-size: 70%;
+    color: #fff;
+    }
+
+
+.App-header { 
+    background-color:#197163 ;
+    }
+  
+
+    .App-header .welcome h3{
+        margin-left: 30%;
+        margin-top: 10%;
+        color: #fff ;   
+    }
+
+    
+    .App-header .welcome h1{
+        margin-left: 30%;
+        color:#fddb3a;
+    }
+
+    
+    .App-header p1{
+        color: #fddb3a;
+        margin-left : 3%;
+    }
+

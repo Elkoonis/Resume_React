@@ -1,0 +1,16 @@
+    .nav-items {
+        font-size: 70%;
+        padding-left: 10%;
+    }
+
+     .nav-items li{
+        display: inline;
+        list-style-type: none;
+        padding-left: 10%;
+        color: #fff;
+    }
+
+    .nav-items li:hover {
+        color: #fddb3a;
+        cursor: pointer;
+    } 

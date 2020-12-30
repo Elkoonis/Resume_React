@@ -1,0 +1,61 @@
+
+.App {
+  display: grid;
+  grid-template-areas: 
+
+    "header photo photo"
+    "main main main"
+    "footer footer footer" ;
+
+  grid-template-columns: 50%  50%  1fr  ;
+  grid-template-rows: 30%  1fr   5% ;
+  min-width: 100vh;
+  }  
+
+
+@media all and (max-width: 575px) {
+  .App { 
+    
+    grid-template-areas: 
+
+      "header"
+      "photo"
+      "main"
+      "footer" ;
+      
+    grid-template-rows: 1fr;  
+    grid-template-columns: 1fr;
+ 
+    }
+  }
+
+   main {
+  padding: 1em;
+  background: #fff;
+
+  }
+
+  footer {
+  padding: 1em;
+
+  }
+
+
+  #pageHeader {
+     grid-area: header;
+     background: #197163;
+     }
+
+  #pageMain { 
+     grid-area: main;      
+     }
+  
+  #pageFooter {
+     grid-area: footer;
+     background: black;
+     }
+
+  #pagePhoto {
+     grid-area: photo;
+     }
+  
