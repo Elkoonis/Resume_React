@@ -19,9 +19,9 @@ class Header extends React.Component {
 
           <h3>Hey, i'm</h3>
 
-          <h1>Onishchenko <br></br>
-              Vladyslav</h1>
-
+          <h1>Onishchenko </h1>
+          <h1>Vladyslav </h1> 
+          
         </div>
 
       </header>

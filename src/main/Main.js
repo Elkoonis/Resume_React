@@ -35,6 +35,7 @@ class Main extends React.Component {
             <ul>
             <li> React </li> 
             <li> Js </li>
+            <li> Grid </li>
             </ul>
 
 
@@ -61,9 +62,11 @@ class Main extends React.Component {
 
              <p> Courses Online: </p>
 
-            <li>  QATestLab.</li>
+            <li> ItGid</li>
+            <li> QATestLab</li>
             <li> SMM Ignate course</li>	
-            <li>	Google adwords 2019</li>
+            <li> Google adwords 2019</li>
+            <li> Random YouToube course  </li>
 
             </ul>
 
@@ -72,7 +75,7 @@ class Main extends React.Component {
 
             <ul>
 
-            <li>English language: Pre-intermediate. </li>
+            <li>English language: Intermediate. </li>
             <li>Every day speking with foreign people.</li>
             <li>Some YouToube React course.</li>
             <li>Have Up work English Russian translater approval.</li>

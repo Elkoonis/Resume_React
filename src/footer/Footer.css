@@ -35,7 +35,7 @@ body{
 
 
 
-/*twitter*/
+
 .App-footer ul li:hover.telegram {
   border: 5px solid #00aced;
   box-shadow: 0 0 15px #00aced;
@@ -50,7 +50,6 @@ body{
 
 
 
-/* instagram */
 .App-footer ul li:hover.instagram {
   border: 5px solid #bc2a8d;
   box-shadow: 0 0 15px #bc2a8d;
@@ -80,7 +79,7 @@ body{
 
 
 
-/* whatsapp */
+
 .App-footer ul li:hover.whatsapp {
   border: 5px solid #43d854;
   box-shadow: 0 0 15px #43d854;
